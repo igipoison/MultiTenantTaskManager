@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.API", "TaskManager.API\TaskManager.API.csproj", "{A18EF553-5198-40B6-B1C8-037D5C34DD25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{136F7355-E609-4DBB-B83E-3F0EC704C1CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CDC3B78B-0A2A-4D33-A7ED-9EB0A4B69ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18EF553-5198-40B6-B1C8-037D5C34DD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18EF553-5198-40B6-B1C8-037D5C34DD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18EF553-5198-40B6-B1C8-037D5C34DD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18EF553-5198-40B6-B1C8-037D5C34DD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A18EF553-5198-40B6-B1C8-037D5C34DD25} = {136F7355-E609-4DBB-B83E-3F0EC704C1CF}
+	EndGlobalSection
+EndGlobal
